@@ -1,5 +1,6 @@
 {
 	"locales":{
 		"Español":"https://raw.githubusercontent.com/pinarruiz/BrailleDictionaries/master/es-es.json"
+		"English":"https://raw.githubusercontent.com/pinarruiz/BrailleDictionaries/master/en-en.json"
 	}
 }
